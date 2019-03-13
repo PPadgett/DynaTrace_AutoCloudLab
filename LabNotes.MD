@@ -14,6 +14,7 @@ DTLab_Token: 9m_s0zs0RCudqbfm3sni_
 JenkinsIP: http://35.184.175.145:24711/
 JenkinsAccountInfo: admin/dynatrace123qweASD!
 GitHubToken: 8f5e9b854de410401c8447a63070b995bdfc56bc
+GitHubToken: d60bfd79139fe18b48c722d626267944bc00460c
 githubOrg: wubbalubba-dubdub
 FrontEnd(website): 35.224.194.46:8080
 gCloud: acl-march11-3@detroit-acl-v2.iam.gserviceaccount.com
